@@ -1,0 +1,65 @@
+
+body{
+  padding: 50px 200px;
+  text-align: center;
+}
+
+h1{
+  font-family: "Open Sans";
+  letter-spacing: 1px;
+  font-size: 2.7em;
+  color: #3f3f44;
+}
+
+p{
+  font-family: "Open Sans";
+  letter-spacing: 1px;
+  color: #3f3f44;
+  padding: 50px 150px 0;
+}
+a{
+  color: #3f3f44;
+}
+a:hover{
+  color: #000;
+}
+
+.foot{
+  padding-top: 20%;
+
+}
+.top{
+  padding-top: 30px;
+}
+
+.middle{
+  padding-top: 60px;
+}
+
+.nav-link{
+  color: #888888;
+  font-family: "Open Sans", sans-serif;
+}
+
+.nav-link:hover{
+  color: grey;
+}
+.active{
+  color: black;
+}
+
+.btn-group{
+  padding: 0;
+}
+
+.pic1{
+  height: 60%;
+  width: 60%;
+  margin-bottom: 30px;
+}
+
+.pic2{
+  height: 60%;
+  width: 60%;
+  margin-bottom: 30px;
+}
