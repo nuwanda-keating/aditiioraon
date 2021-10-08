@@ -1,2 +1,2 @@
 # artist-website
-Website for a college senior made with love.
+Portfolio Website for a college senior made with love.
